@@ -1,0 +1,4 @@
+﻿  vjezba4.c
+C:\Users\Petar\Downloads\vjezba4.c(48,18): warning C4101: 'i': unreferenced local variable
+C:\Users\Petar\Downloads\vjezba4.c(164,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  vjezba4.vcxproj -> D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\spa\vjezba4\vjezba4\x64\Debug\vjezba4.exe

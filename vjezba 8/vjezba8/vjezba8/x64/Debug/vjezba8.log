@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\objektno\2 kolokvij\vjezbe\vjezba8\main.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\objektno\2 kolokvij\vjezbe\vjezba8\structs.h(152,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\objektno\2 kolokvij\vjezbe\vjezba8\structs.h(151,1): message : while compiling class template member function 'float Point<int>::operator -(Point<int>)'
+D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\objektno\2 kolokvij\vjezbe\vjezba8\main.cpp(49,8): message : see reference to function template instantiation 'float Point<int>::operator -(Point<int>)' being compiled
+D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\objektno\2 kolokvij\vjezbe\vjezba8\main.cpp(48,17): message : see reference to class template instantiation 'Point<int>' being compiled
+  vjezba8.vcxproj -> D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\spa\vjezba 8\vjezba8\x64\Debug\vjezba8.exe

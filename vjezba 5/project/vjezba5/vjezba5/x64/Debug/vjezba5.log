@@ -1,0 +1,5 @@
+﻿  dictionary.c
+D:\Downloads\vjezba\vjezba\dictionary.c(19,45): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Downloads\vjezba\vjezba\dictionary.c(20,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Downloads\vjezba\vjezba\dictionary.c(25,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+  vjezba5.vcxproj -> D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\spa\vjezba 5\project\vjezba5\x64\Debug\vjezba5.exe

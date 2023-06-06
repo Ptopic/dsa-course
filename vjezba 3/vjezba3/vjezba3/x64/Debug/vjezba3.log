@@ -1,0 +1,6 @@
+﻿  vjezba3.c
+D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\spa\vjezba3\vjezba3\vjezba3\vjezba3.c(83,20): warning C4018: '<': signed/unsigned mismatch
+D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\spa\vjezba3\vjezba3\vjezba3\vjezba3.c(97,20): warning C4018: '<': signed/unsigned mismatch
+D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\spa\vjezba3\vjezba3\vjezba3\vjezba3.c(88): warning C4716: 'writeBin': must return a value
+D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\spa\vjezba3\vjezba3\vjezba3\vjezba3.c(124): warning C4716: 'writeText': must return a value
+  vjezba3.vcxproj -> D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\spa\vjezba3\vjezba3\x64\Debug\vjezba3.exe

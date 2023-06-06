@@ -1,0 +1,4 @@
+﻿  bstree.c
+D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\spa\vjezba7\bstree.c(116,27): warning C4028: formal parameter 1 different from declaration
+D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\spa\vjezba7\bstree.c(167,9): warning C4013: 'readWord' undefined; assuming extern returning int
+  vjezba7.vcxproj -> D:\FAKULTET\--- 2 GODINA ---\1 SEMESTAR\spa\vjezba7\vscode project\vjezba7\x64\Debug\vjezba7.exe
